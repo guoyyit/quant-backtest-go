@@ -1,0 +1,4 @@
+# build artifacts
+/backtest
+/equity.csv
+*.out
